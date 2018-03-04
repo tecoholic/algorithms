@@ -8,7 +8,7 @@ Source: [https://en.wikipedia.org/wiki/Sorting_algorithm](https://en.wikipedia.o
     1. [Insertion Sort](./insertion_sort/)
     2. Selection Sort
 2. Efficient Sorts
-    1. Merge Sort
+    1. [Merge Sort](./merge_sort/)
     2. Heap Sort
     3. Quick Sort
 3. Bubble Sort Variations
